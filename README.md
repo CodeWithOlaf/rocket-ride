@@ -20,7 +20,7 @@ Rocket Ride is a platform that allows users to  deploy and host web applications
 * Logs generated during the build process are managed using a pub-sub architecture with Redis.
 * Logs are published by the build server and subscribed to by the API server using Redis and Socket.IO, enabling real-time log streaming to users.
 
-![Alt text](relative%20Rocket-Ride.jpg.jpg?raw=true "Rocket-Ride")
+![Rocket Image](Rocket-Ride.jpg)
 
 
 
